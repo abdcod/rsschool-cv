@@ -5,7 +5,7 @@
 
 
 ##### Location:  
-:ru: Nizhny Novgorod, Russia 
+Nizhny Novgorod, Russia 
 
 ---
 ##### About me:
