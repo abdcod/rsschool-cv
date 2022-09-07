@@ -5,15 +5,15 @@
 
 
 ##### Location:  
-:ru: Nizhny Novgorod, Russia  
+:ru: Nizhny Novgorod, Russia 
 
 ---
-##### My profiles: 
+##### About me:
+Hello! My name is Timur. I am 25 y.o.  
+I finished Moscow State University, faculty of law, but now i'm going to be a frontend developer. My strong points are creative sense and algorithmic mind.  
+A have been studied low-level programming in Sber School 21, so now i know syntax of C language and it helps me in my education of Web technologies.  
+I am open-minden person! Let's study together!
 
-
-[![Telegram](https://imageup.ru/img193/4018196/icons8-telegramma-app-48.png)](t.me/abdulman "my telegram")
-
-[![Github](https://imageup.ru/img164/4018200/icons8-github-48.png)](github.com/abdcod "my github")
 
 ---
 #### Skills:
@@ -25,13 +25,16 @@
 ###### Figma: ![progress in Figma](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%236699FF "progress in Figma")
 
 ###### Git: ![progress in Git](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=%23CCFF99 "progress in Git")
----
-##### About me:
-Hello! My name is Timur. I am 25 y.o.  
-I finished Moscow State University, faculty of law, but now i'm going to be a frontend developer. My strong points are creative sense and algorithmic mind.  
-A have been studied low-level programming in Sber School 21, so now i know syntax of C language and it helps me in my education of Web technologies.  
-I am open-minden person! Let's study together!
+
 ---
 ##### Code example:
 
-[Description of task and my solution in C language](https://github.com/abdcod/Game_task)git 
+[Description of task and my solution in C language](https://github.com/abdcod/Game_task)
+
+---
+##### My profiles: 
+
+
+[![Telegram](https://imageup.ru/img193/4018196/icons8-telegramma-app-48.png)](t.me/abdulman "my telegram")
+
+[![Github](https://imageup.ru/img164/4018200/icons8-github-48.png)](github.com/abdcod "my github")
