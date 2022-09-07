@@ -35,6 +35,6 @@ I am open-minden person! Let's study together!
 ##### My profiles: 
 
 
-[![Telegram](https://imageup.ru/img193/4018196/icons8-telegramma-app-48.png)](t.me/abdulman "my telegram")
+[![Telegram](https://imageup.ru/img193/4018196/icons8-telegramma-app-48.png)](https://t.me/abdulman "my telegram")
 
-[![Github](https://imageup.ru/img164/4018200/icons8-github-48.png)](github.com/abdcod "my github")
+[![Github](https://imageup.ru/img164/4018200/icons8-github-48.png)](https://github.com/abdcod "my github")
