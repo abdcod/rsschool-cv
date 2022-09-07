@@ -16,7 +16,7 @@ I am open-minden person! Let's study together!
 
 
 ---
-#### Skills:
+##### Skills:
 ###### HTML: ![progress in HTML](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=80&leftFill=%2366FF66 "progress in HTML")
 ###### CSS:  ![progress in CSS](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%23FF6666 "progress in CSS")
 
