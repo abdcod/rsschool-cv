@@ -1,17 +1,17 @@
-# Timur Abdulmanov  
-##### Frontend developer (beginner) 
+# Timur Abdulmanov
+##### Frontend developer (beginner)
 
 ![My photo](https://imageup.ru/img204/4018189/avatarka.jpg "my photo")
 
 
-##### Location:  
-Nizhny Novgorod, Russia 
+##### Location:
+Moscow, Russia
 
 ---
 ##### About me:
-Hello! My name is Timur. I am 25 y.o.  
-I finished Moscow State University, faculty of law, but now i'm going to be a frontend developer. My strong points are creative sense and algorithmic mind.  
-A have been studied low-level programming in Sber School 21, so now i know syntax of C language and it helps me in my education of Web technologies.  
+Hello! My name is Timur. I am 25 y.o.
+I finished Moscow State University, faculty of law, but now i'm going to be a frontend developer. My strong points are creative sense and algorithmic mind.
+A have been studied low-level programming in Sber School 21, so now i know syntax of C language and it helps me in my education of Web technologies.
 I am open-minden person! Let's study together!
 
 
@@ -27,12 +27,14 @@ I am open-minden person! Let's study together!
 ###### Git: ![progress in Git](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=%23CCFF99 "progress in Git")
 
 ---
-##### Code example:
+##### Code examples:
+
+[Me pet-project - card game "Black Jack"](https://github.com/abdcod/BLACK_JACK)
 
 [Description of task and my solution in C language](https://github.com/abdcod/Game_task)
 
 ---
-##### My profiles: 
+##### My profiles:
 
 
 [![Telegram](https://imageup.ru/img193/4018196/icons8-telegramma-app-48.png)](https://t.me/abdulman "my telegram")
