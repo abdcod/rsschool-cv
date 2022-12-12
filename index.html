@@ -5,10 +5,176 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="icon" href="img/1.ico">
+    <link rel="stylesheet" href="style.css">
+    <title>My CV</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
 </head>
 
 <body>
+    <div class="main-container">
+        <header>
+            <div class="header-main">
+                <img width="100" src="img/ava.JPG" alt="avatar">
+                <div></div>
+                <div class="header-information">
+                    <h1>Timur Abdulmanov</h1>
+                    <p class="professial">Frontend developer (beginner)</p>
+                </div>
+            </div>
+
+            <div>
+                <nav>
+                    <ol>
+                        <li><a href="#location">Location</a></li>
+                        <li><a href="#about_me">About me</a></li>
+                        <li><a href="#skills">Skills</a></li>
+                        <li><a href="#examples">Code Examples</a></li>
+                        <li><a href="#profiles">My Profiles</a></li>
+                    </ol>
+                </nav>
+            </div>
+        </header>
+        <main>
+            <div id="location" class="location">
+                <div class="location_text">
+                    <h2>My location:</h2>
+                    <p> <img height="15" width="15" src="img/location_icon.svg" alt="location_logo">Moscow</p>
+                </div>
+                <div style="min-width: 70px;"></div>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d577325.3470583912!2d36.82512607367289!3d55.58152443587093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCw!5e0!3m2!1sru!2sru!4v1670822138734!5m2!1sru!2sru"
+                    width="300" height="150" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+            </div>
+            <div class="about_me" id="about_me">
+                <h2>About me</h2>
+                <p>Hello! My name is Timur. I am 25 y.o. </p>
+                <p>I finished Moscow State University, faculty of law, but
+                    now
+                    I&apos;m going to be a frontend developer.</p>
+                <p>My strong points are creative sense and algorithmic
+                    mind.
+                    I have been studied low-level programming in Sber School 21, <br> so now i know syntax of C language
+                    and
+                    it
+                    helps me in my education of Web technologies.</p>
+                <p>I am open-minden person! Let&apos;s study
+                    together!
+                </p>
+            </div>
+            <div class="skills" id="skills">
+                <div class="skills_1">
+                    <h2>Already know:</h2>
+                    <div class="container_know">
+                        <div>
+                            <p>HTML</p>
+                            <img height="100" src="img/html.png" alt="html_logo">
+                        </div>
+                        <div>
+                            <p>CSS</p>
+                            <img height="100" src="img/css.svg" alt="css_logo">
+                        </div>
+                        <div>
+                            <p>Javascript</p>
+                            <img height="100" src="img/js.png" alt="js_logo">
+                        </div>
+                        <div>
+                            <p>Sass</p>
+                            <img height="100" src="img/Sass_Logo_Color.svg" alt="sass_logo">
+                        </div>
+                        <div>
+                            <p>Tailwind</p>
+                            <img height="100" src="img/Tailwind.svg" alt="tailwind_logo">
+                        </div>
+                    </div>
+                </div>
+                <div class="skills_1">
+                    <h2>In progress:</h2>
+                    <div class="container_know">
+                        <div>
+                            <p>React</p>
+                            <img height="100" src="img/React.svg" alt="react_logo">
+                        </div>
+                        <div>
+                            <p>Redux</p>
+                            <img height="100" src="img/redux.svg" alt="redux_logo">
+                        </div>
+                        <div>
+                            <p>Gulp</p>
+                            <img height="100" src="img/Gulp.svg" alt="gulp_logo">
+                        </div>
+                        <div>
+                            <p>Webpack</p>
+                            <img height="100" src="img/webpack_plain_logo_icon_146297.svg" alt="webpack_logo">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="examples" id="examples">
+                <h2>My pet-project</h2>
+                <div class="examples_container">
+                    <div>
+                        <p>I want to present you the card game "Black Jack",<br>completely developed by me.</p>
+                        <p>During the development process,<br>I learned a lot of things in Javascript and CSS.</p>
+                        <p>I'm really proud of this project,<br>because it has interesting code logic and a lot of
+                            unusual
+                            solutions.</p>
+                        <p>Click on image, to play! <img class="hand_pointer" height="16" src="img/right_pointer.png"
+                                alt="pointer_to_game">
+                        </p>
+                    </div>
+                    <a href="https://abdcod.github.io/BLACK_JACK/"><img class="game_image" height="450"
+                            src="img/black_jack_1.png" alt="black_jack"></a>
+                </div>
+            </div>
+            <div class="profiles" id="profiles">
+                <h2>I&apos;m on social media</h2>
+                <div class="profiles_container">
+                    <a href="https://github.com/abdcod"><svg class="tg_logo" width="100" height="100"
+                            viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M8 0C3.58 0 0 3.58 0 8C0 11.54 2.29 14.53 5.47 15.59C5.87 15.66 6.02 15.42 6.02 15.21C6.02 15.02 6.01 14.39 6.01 13.72C4 14.09 3.48 13.23 3.32 12.78C3.23 12.55 2.84 11.84 2.5 11.65C2.22 11.5 1.82 11.13 2.49 11.12C3.12 11.11 3.57 11.7 3.72 11.94C4.44 13.15 5.59 12.81 6.05 12.6C6.12 12.08 6.33 11.73 6.56 11.53C4.78 11.33 2.92 10.64 2.92 7.58C2.92 6.71 3.23 5.99 3.74 5.43C3.66 5.23 3.38 4.41 3.82 3.31C3.82 3.31 4.49 3.1 6.02 4.13C6.66 3.95 7.34 3.86 8.02 3.86C8.7 3.86 9.38 3.95 10.02 4.13C11.55 3.09 12.22 3.31 12.22 3.31C12.66 4.41 12.38 5.23 12.3 5.43C12.81 5.99 13.12 6.7 13.12 7.58C13.12 10.65 11.25 11.33 9.47 11.53C9.76 11.78 10.01 12.26 10.01 13.01C10.01 14.08 10 14.94 10 15.21C10 15.42 10.15 15.67 10.55 15.59C13.71 14.53 16 11.53 16 8C16 3.58 12.42 0 8 0Z"
+                                transform="scale(64)" fill="#000000" />
+                        </svg></a>
+
+                    <svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 240 240">
+                        <defs>
+                            <linearGradient id="linear-gradient" x1="120" y1="240" x2="120"
+                                gradientUnits="userSpaceOnUse">
+                                <stop offset="0" stop-color="#1d93d2" />
+                                <stop offset="1" stop-color="#38b0e3" />
+                            </linearGradient>
+                        </defs>
+                        <a href="https://t.me/abdulman">
+                            <circle cx="120" cy="120" r="120" fill="url(#linear-gradient)" />
+                            <path
+                                d="M81.229,128.772l14.237,39.406s1.78,3.687,3.686,3.687,30.255-29.492,30.255-29.492l31.525-60.89L81.737,118.6Z"
+                                fill="#c8daea" />
+                            <path d="M100.106,138.878l-2.733,29.046s-1.144,8.9,7.754,0,17.415-15.763,17.415-15.763"
+                                fill="#a9c6d8" />
+                            <path
+                                d="M81.486,130.178,52.2,120.636s-3.5-1.42-2.373-4.64c.232-.664.7-1.229,2.1-2.2,6.489-4.523,120.106-45.36,120.106-45.36s3.208-1.081,5.1-.362a2.766,2.766,0,0,1,1.885,2.055,9.357,9.357,0,0,1,.254,2.585c-.009.752-.1,1.449-.169,2.542-.692,11.165-21.4,94.493-21.4,94.493s-1.239,4.876-5.678,5.043A8.13,8.13,0,0,1,146.1,172.5c-8.711-7.493-38.819-27.727-45.472-32.177a1.27,1.27,0,0,1-.546-.9c-.093-.469.417-1.05.417-1.05s52.426-46.6,53.821-51.492c.108-.379-.3-.566-.848-.4-3.482,1.281-63.844,39.4-70.506,43.607A3.21,3.21,0,0,1,81.486,130.178Z"
+                                fill="#fff" />
+                        </a>
+                    </svg>
+                    <!-- <img height="70px" src="img/github.svg" alt="github"> -->
+                    <!-- <img height="70px" src="img/tg.svg" alt="telegram_icon"> -->
+                </div>
+            </div>
+        </main>
+        <footer>
+            <div class="footer_container">
+                <p>@2022</p>
+                <a href="https://github.com/abdcod">My github</a>
+                <a href="https://rs.school/js/"><img height="20" src="img/rs_school_js.svg" alt="rs_school_logo"></a>
+            </div>
+        </footer>
+    </div>
 
 </body>
 
